@@ -1,1 +1,2 @@
-This a test msg for README.md file.
+#Udemy Training Project
+Start : 1401.06.13
