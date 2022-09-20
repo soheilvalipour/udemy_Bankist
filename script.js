@@ -151,7 +151,7 @@ const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
 /////////////////////////////////////////////////
 
 
-// ----------------------- forEeach Practic
+//? ----------------------------- forEeach Practic ----------------------
 // console.log('---- forEach ----');
 // const arrTest1 = [430, 1000, 700, 50, 90];
 
@@ -161,3 +161,33 @@ const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
 //     console.log(arr);
 
 // });
+
+//?    --------------------- code challenge 1 11_09 --------------------
+
+// const checkDogs = function (dogsJulia, dogsKate) {
+
+//     const dogsJulia_Correct = dogsJulia.slice(1, 3);
+//     const dogsKate_Copy = dogsKate;
+
+//     dogsJulia_Correct.forEach(function (dogsJulia, i) {
+//         if (dogsJulia >= 3) {
+//             console.log(`Dog number ${i + 1} is an adult, and is ${dogsJulia} years old.`);
+//         }
+//         else {
+//             console.log(`Dog number ${i + 1} is still puppy 🐶`);
+//         }
+//     });
+//     console.log('--------');
+//     dogsKate_Copy.forEach(function (dogsKate, i) {
+//         if (dogsKate >= 3) {
+//             console.log(`Dog number ${i + 1} is an adult, and is ${dogsKate} years old.`);
+//         }
+//         else {
+//             console.log(`Dog number ${i + 1} is still puppy 🐶`);
+//         }
+//     });
+// };
+
+
+// checkDogs([3, 5, 2, 12, 7], [4, 1, 15, 8, 3]);
+//? ----------------------------------------------------------------------------
