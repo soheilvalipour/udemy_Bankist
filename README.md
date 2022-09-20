@@ -1,2 +1,3 @@
 #Udemy Training Project
-Start : 1401.06.13
+Project name : Bankist </br>
+Start : 1401.02
